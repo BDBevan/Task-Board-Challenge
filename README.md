@@ -5,11 +5,11 @@ Please see a list of features, screenshots and links to both the published page 
 
 ## Features
 
-- Alows users to create new tasks via a pop-up modal when the 'add task' button is clicked.
-- Allows for task title, description and due date via date picker.
-- Urgent tasks are colour coded in red, med are colour coded in yellow, low priority are in white.
+- Allows users to create new tasks via a pop-up modal when the 'add task' button is clicked.
+- Allows for task title, description and task due date via date picker.
+- Urgent tasks are back ground colour coded in red, med are colour coded in yellow, low priority are in white.
 - The user can delete each newly created task via a button on the cards.
-- The user can drag and drop each card into each individual development swimlane depending on the status of the item.
+- The user can drag and drop each card into each individual development swimlane(s) depending on the status of the item.
 
 ![Task_01](https://github.com/BDBevan/Task-Board-Challenge/assets/47439436/abe88063-3072-4d5c-96aa-6526cbd55cf5)
 
